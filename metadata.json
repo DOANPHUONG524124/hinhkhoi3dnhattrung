@@ -1,0 +1,6 @@
+{
+  "name": "Thế Giới Hình Học 3D – Khám Phá Toán Học Trực Quan",
+  "description": "Ứng dụng mô phỏng hình học không gian 3D tương tác dành cho giáo viên và học sinh tiểu học Việt Nam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
